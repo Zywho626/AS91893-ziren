@@ -1,0 +1,258 @@
+body { 
+
+    font-family: "Arial", sans-serif; 
+   
+   } 
+   
+   /* Styling the Page Container */ 
+   
+   #page_container { 
+   
+    width: 1000px; 
+   
+    margin: 0 auto; 
+   
+    border: 5px solid black; 
+   
+    background-color: #111314;
+   
+   } 
+   
+    
+
+   
+   #logo { 
+   
+   width: 150px; 
+   
+    float: left; 
+   
+   padding: 10px 0 15px 30px;  
+   
+   } 
+   
+   #logo img { 
+   
+    width: 100px; 
+   
+   } 
+   
+   #page_title { 
+   
+    width: 500px; 
+
+    float: left; 
+   
+    text-align: left; 
+   
+    padding-left: 100px; 
+   
+    padding-top: 25px; 
+   
+   } 
+   
+   nav { 
+   
+    clear: both; 
+   
+    text-align: center; 
+   
+   } 
+   
+   /* Styling the ul in the nav */ 
+   
+   nav ul { 
+   
+    list-style-type: none; 
+   
+    margin: 0; 
+   
+    padding: 0; 
+   
+    overflow: hidden; 
+   
+    background-color: #111314; 
+   
+   } 
+   
+   /* Stlying the li elements in the nav */ 
+   
+   nav li { 
+   
+    display: inline-block; 
+   
+   } 
+   
+   /* Styling the li and a tags in the nav*/ 
+   
+   nav li a { 
+   
+    display: block; 
+   
+   text-decoration: none; 
+   
+    text-align: center; 
+   
+    padding: 14px 30px; 
+   
+    font-size: 25px; 
+   
+    color: #ffffff; 
+   
+   } 
+   
+   nav li a:hover { 
+   
+   background-color: rgb(54, 54, 54); 
+   
+   } 
+   
+   /* About viedeogames Section Styling */ 
+   
+   #GOTV { 
+   
+    clear: both; 
+   
+    overflow: hidden; 
+   
+    padding-bottom: 0px; 
+   
+   } 
+   
+    
+   
+   #cs2_stats_intro { 
+   
+    margin-left: 10px; 
+   
+    float: left; 
+   
+    width: 1000px; 
+   
+    padding-left: 10px; 
+   
+   } 
+   
+   #news_intro p { 
+   
+   font-size: 10pt; 
+   
+    text-align: justify; 
+   
+   } 
+   
+   /* player Image below */ 
+   
+   #mvs_image { 
+   
+    width: 100px; 
+   
+    float: right; 
+   
+    padding-top: 10px; 
+   
+    margin-left: 20px; 
+    
+
+  }
+   
+   #vrank_image { 
+   
+    width: 100px; 
+    float: left;
+    padding-top: 10px;
+    margin-left: 20px;
+   
+   
+   } 
+
+  #xantares_image{
+    width: 50px;
+    float: central;
+
+
+  }
+
+   
+   footer { 
+    background-color: #000000;
+    background-size: cover;
+    clear: none;
+   
+   } 
+   
+   footer li { 
+   
+    list-style-type: none; 
+   
+   } 
+   
+   footer a { 
+   
+    text-decoration: none; 
+   
+    color: rgb(255, 255, 255); 
+   
+   } 
+   
+   #links { 
+   
+    width: 450px; 
+   
+    float: left; 
+   
+    padding-left: 100px; 
+   
+   } 
+   
+   #links h4 { 
+   
+    padding-left: 40px; 
+   
+   } 
+   
+   #menu h4 { 
+   
+ padding-left: 39px; 
+   
+   } 
+   
+   #menu { 
+   
+    width: 450px; 
+   
+    float: left; 
+   
+    padding-left: 100px; 
+   
+   } 
+   
+   #socials { 
+   
+    float: left; 
+   
+    width: 450px; 
+   
+   padding-left: 100px; 
+   
+   } 
+   
+   #socials ul { 
+   
+    list-style-type: none; 
+   
+    padding: 5; 
+   
+   } 
+   
+   #socials li { 
+   
+    padding: 0 12px 0 0; 
+   
+    display: inline; 
+   
+   }
+   
+   
+   
+  
